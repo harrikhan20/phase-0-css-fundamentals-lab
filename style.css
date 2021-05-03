@@ -1,5 +1,49 @@
+h1 {
+  text-align: center;
+  
+}
+
+img{
+  margin: auto;
+  display: block;
+}
+
+
 body {
+  
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+nav{
+  text-align: center;
+   padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption{
+  font-size: smaller;
+  text-align: center;
+}
+
+p{
+
+  
+width: 800px;
+margin: auto;
+  margin-bottom: 20px;
+}
+
+div{
+  float: left;
+  background-color: red;
+  
+  width: 25%;
+  text-align: left;
+  
+}
+
+
+
